@@ -9092,7 +9092,7 @@ const W2 = () => x.jsx("div", {
       }), x.jsxs("div", {
          className: "flex justify-center gap-4 mt-4 text-xl text-gray-400",
          children: [x.jsx("a", {
-            href: "https://instagram.com/zenofficialdev",
+            href: "https://instagram.com/br_ayaa29",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "text-zinc-400 hover:text-zinc-100 transition-colors",
@@ -14844,18 +14844,28 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       url: "https://www.aryashop.biz.id",
       icon: "🫧"
    }, {
-      title: "My Group",
+      title: "My Room Chat Bot 1",
       description: "Join to my group for free bot",
       url: "https://chat.whatsapp.com/BgroRRmleSIKY3N66vyS9x",
+      icon: "🪸"
+   },{
+      title: "My Room Chat Bot 2",
+      description: "Join to my group for free bot",
+      url: "https://chat.whatsapp.com/FmqtGGzSoXl8mU5vsNSZiB",
       icon: "🪸"
    }, {
       title: "Channel Whatsapp Arya Official",
       description: "Find your online chat friends.",
       url: "https://whatsapp.com/channel/0029VafvKzL2P59gzU6lGs0b",
       icon: "🪪"
+   },{
+      title: "Channel Testimoni Arya Official",
+      description: "OUR TESTIMONI FOR YOU TRUST.",
+      url: "https://whatsapp.com/channel/0029VafvKzL2P59gzU6lGs0b",
+      icon: "🪪"
    }, {
-      title: "Donate",
-      description: "Donate as you wish.",
+      title: "Provide Support",
+      description: "Give Snacks To Cherr Up.",
       url: "https://files.catbox.moe/snq2w9.jpg",
       icon: "🪫"
    }, {
