@@ -9078,13 +9078,13 @@ const W2 = () => x.jsx("div", {
          className: "flex justify-center gap-2 mt-3",
          children: [x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "💻 Ngoding"
+            children: "💻 Watch"
          }), x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "Turu"
+            children: "Gaming"
          }), x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
-            children: "Anime"
+            children: "Editor"
          }), x.jsx("span", {
             className: "bg-white/5 px-3 py-1 rounded-full text-xs hover:bg-white/10 transition-all hover:scale-105 ring-1 ring-yellow-500",
             children: "Music"
@@ -9100,7 +9100,7 @@ const W2 = () => x.jsx("div", {
                className: "h-5 w-5 text-pink-600"
             })
          }), x.jsx("a", {
-            href: "https://github.com/ZackDevOfficial",
+            href: "https://github.com/AryaMarket",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "text-zinc-400 hover:text-zinc-100 transition-colors",
@@ -14839,13 +14839,13 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, gT),
    V = rE(yT),
    vT = [{
-      title: "Personal Website",
+      title: "About Me",
       description: "About me.",
-      url: "https://www.zenofc.my.id",
+      url: "https://www.aryashop.biz.id",
       icon: "🌐"
    }, {
-      title: "Elaina MD",
-      description: "Confess your feelings through Elaina bot",
+      title: "My Group",
+      description: "Join to my group for free bot",
       url: "https://wa.me/628176016737?text=.confess",
       icon: "🪐"
    }, {
