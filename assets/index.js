@@ -9108,7 +9108,7 @@ const W2 = () => x.jsx("div", {
                className: "h-5 w-5 text-gray-600"
             })
          }), x.jsx("a", {
-            href: "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG?si=iIMH97DMQfez3jOmu3xSlg",
+            href: "https://open.spotify.com/track/76UTJqRcTCTVAKKHpdc0XU?si=bFDbYsoXR02ninzsGLk22A",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "text-zinc-400 hover:text-zinc-100 transition-colors",
