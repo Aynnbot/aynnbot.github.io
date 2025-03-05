@@ -14849,14 +14849,14 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       url: "https://chat.whatsapp.com/BgroRRmleSIKY3N66vyS9x",
       icon: "🪸"
    }, {
-      title: "Saluran ZenOfficial",
+      title: "Channel Whatsapp Arya Official",
       description: "Find your online chat friends.",
       url: "https://whatsapp.com/channel/0029VafvKzL2P59gzU6lGs0b",
       icon: "🪪"
    }, {
       title: "Donate",
       description: "Donate as you wish.",
-      url: "https://saweria.co/ZENOFC",
+      url: "https://files.catbox.moe/snq2w9.jpg",
       icon: "🪫"
    }, {
       title: "Currently Playing",
