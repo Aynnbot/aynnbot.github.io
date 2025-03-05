@@ -14842,22 +14842,22 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
       title: "About Me",
       description: "About me.",
       url: "https://www.aryashop.biz.id",
-      icon: "🌐"
+      icon: "🫧"
    }, {
       title: "My Group",
       description: "Join to my group for free bot",
-      url: "https://wa.me/628176016737?text=.confess",
-      icon: "🪐"
+      url: "https://chat.whatsapp.com/BgroRRmleSIKY3N66vyS9x",
+      icon: "🪸"
    }, {
       title: "Saluran ZenOfficial",
       description: "Find your online chat friends.",
-      url: "https://whatsapp.com/channel/0029Vag7ynqBFLgQVrX1Z63Q",
-      icon: "⚡"
+      url: "https://whatsapp.com/channel/0029VafvKzL2P59gzU6lGs0b",
+      icon: "🪪"
    }, {
       title: "Donate",
       description: "Donate as you wish.",
       url: "https://saweria.co/ZENOFC",
-      icon: "💰"
+      icon: "🪫"
    }, {
       title: "Currently Playing",
       isSpotify: !0,
