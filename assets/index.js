@@ -14861,10 +14861,10 @@ const gT = (e, t) => of(e) ? new mT(t) : new pT(t, {
    }, {
       title: "Currently Playing",
       isSpotify: !0,
-      songTitle: "Blue",
-      artist: "Yung kai",
-      albumArt: "https://files.catbox.moe/4th8cp.webp",
-      url: "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG?si=SOfEWtKBQzq5Z4MP9gC9Lg",
+      songTitle: "Fly To The Moon",
+      artist: "Joo Won Shin",
+      albumArt: "https://files.catbox.moe/8ob4kv.jpg",
+      url: "https://open.spotify.com/track/76UTJqRcTCTVAKKHpdc0XU?si=bFDbYsoXR02ninzsGLk22A",
       preview: "https://files.catbox.moe/1q38tx.mp3"
    }],
    wT = () => {
