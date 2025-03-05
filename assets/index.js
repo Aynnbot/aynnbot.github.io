@@ -9068,12 +9068,12 @@ const W2 = () => x.jsx("div", {
          })]
       }), x.jsxs("h1", {
          className: "text-lg font-bold mt-2",
-         children: ["ZackDev. ", x.jsx($2, {
+         children: ["Arya Official. ", x.jsx($2, {
             className: "inline text-blue-500"
          })]
       }), x.jsx("p", {
          className: "text-gray-400 text-xs",
-         children: "Dreamer, Thinker, Doer."
+         children: "Try, Try, and Try."
       }), x.jsxs("div", {
          className: "flex justify-center gap-2 mt-3",
          children: [x.jsx("span", {
