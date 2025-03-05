@@ -19617,49 +19617,49 @@ const ik = () => {
       price: "Rp 17.000",
       category: "Sewa Grup",
       description: "Sewa Grup",
-      image: "https://files.catbox.moe/exnb5b.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    }, {
       id: 2,
       name: "Vip Grup 30 Day",
       price: "Rp 27.000",
       category: "Premium Grup",
       description: "Premium Grup",
-      image: "https://files.catbox.moe/azw4p3.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    },{
       id: 3,
       name: "Premium Nomor/Private Chat🌀",
       price: "Rp 15.000",
       category: "Premium Nomor 30 Day",
       description: "Private Chat",
-      image: "https://files.catbox.moe/azw4p3.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    }, {
       id: 4,
       name: "Ori Grup 15 Day",
       price: "Rp 12.000",
       category: "Sewa Grup",
       description: "Sewa Grup",
-      image: "https://files.catbox.moe/uoej5a.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    }, {
       id: 5,
       name: "Vip Grup 15 Day⚡",
       price: "Rp20.000",
       category: "Premium Grup",
       description: "Premium Grup",
-      image: "https://files.catbox.moe/kmms6f.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    },{
       id: 6,
       name: "Premium Nomor/Private Chat🌀",
       price: "Rp 10.000",
       category: "Premium Nomor",
       description: "Premium Nomor 15 Day",
-      image: "https://files.catbox.moe/azw4p3.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    }, {
       id: 7,
       name: "Scrip Elaina - MD📄",
       price: "Rp50.000",
       category: "Digital",
       description: "Scrip Elaina",
-      image: "https://files.catbox.moe/ry50t9.jpg"
+      image: "https://files.catbox.moe/h0tacj.jpg"
    }],
    sk = () => {
       const e = t => {
